@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kau234
-- 👀 I’m interested in exanding my network and get my hands on some... good projects .
+- 👀 I’m interested 
 - 🌱 I’m currently learning DSA and Java
-- 💞️ I’m looking to collaborate on any rojects related to DSA
+- 💞️ I’m looking to learn
 - 📫 How to reach me ,kaustbhnaik432@gmail.com is my email address 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I like VSCODE
